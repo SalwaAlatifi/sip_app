@@ -1,16 +1,26 @@
-# sip_app
+# Smart Insulin Pump (SIP) App
 
-A new Flutter project.
+**Smart Insulin Pump (SIP)** is a mobile application designed to enhance diabetes management by integrating a smart insulin pump with AI-driven insights. The app provides real-time monitoring, predictive analytics, and flexible insulin control to improve safety and convenience for users and caregivers.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Minimalist, User-Friendly Interface**: Simple and intuitive design for seamless navigation.  
+- **AI-Driven Glucose Prediction**: Forecasts future glucose levels based on current data.  
+- **Alert Notifications**: Sends instant notifications during emergencies.  
+- **Parental Control Mode**: Allows caregivers to monitor and manage insulin delivery remotely.  
+- **Customizable Insulin Bolus Settings**: Flexible and personalized insulin dosing options.  
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Mobile App**: Flutter (cross-platform)  
+- **Backend**: Dart with Firebase  
+- **Database**: Firestore (Users, Guardians, Daily Data, Doctor collections)  
+- **AI/Analytics**: Predictive algorithms for glucose trends and insulin dosing  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Highlights
+
+- Developed a **secure multi-user mobile application** with Firebase authentication.  
+- Implemented **AI-powered glucose prediction** and **real-time emergency alerts**.  
+- Designed **parental control features** and **customizable insulin settings** for enhanced care.  
+- Created a **clean and intuitive UI** optimized for usability using Flutter and Google Fonts (Lato).  
+
