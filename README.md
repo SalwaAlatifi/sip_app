@@ -14,7 +14,7 @@
 
 - **Mobile App**: Flutter (cross-platform)  
 - **Backend**: Dart with Firebase  
-- **Database**: Firestore (Users, Guardians, Daily Data, Doctor collections)  
+- **Database**: Firestore  
 - **AI/Analytics**: Predictive algorithms for glucose trends and insulin dosing  
 
 ## Project Highlights
@@ -22,5 +22,5 @@
 - Developed a **secure multi-user mobile application** with Firebase authentication.  
 - Implemented **AI-powered glucose prediction** and **real-time emergency alerts**.  
 - Designed **parental control features** and **customizable insulin settings** for enhanced care.  
-- Created a **clean and intuitive UI** optimized for usability using Flutter and Google Fonts (Lato).  
+- Created a **clean and intuitive UI** optimized for usability.  
 
