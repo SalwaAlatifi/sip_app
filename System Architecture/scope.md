@@ -34,7 +34,3 @@ These are features planned for later versions (NOT in MVP but part of long-term 
 - Pump hardware manufacturing.
 - Clinical trials.
 - Wearable technology development (smartwatches, smart patches).
-
-# The Project Deliverabels
-# Assumptions
-# Constarints
