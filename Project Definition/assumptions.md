@@ -1,0 +1,16 @@
+# Assumptions
+- The third-party CGM sensor will provide an accessible method to retrieve real-time glucose readings.
+- The insulin pump hardware will be a BLE-enabled device that can pair with the mobile app.
+- Appwrite backend services will remain available and support authentication, database storage, and API requests throughout development.
+- A reliable CGM simulator will be available for development and testing.
+- Users (patients/caregivers) will have smartphones that meet the required iOS/Android versions and hardware capabilities.
+- Internet connectivity will be available for syncing data, receiving alerts, and accessing backend services.
+- No medical certification or regulatory approvals are required for the MVP; regulatory work is out of scope and will be addressed later if needed.
+- External dependencies (Appwrite, CGM provider, BLE libraries) will not introduce major delays or breaking changes during development.
+- Any personal health data used in development/testing will be de-identified or synthetic.
+- All mockups, UI designs, and workflow approvals will be completed by the developer prior to beginning full implementation of corresponding features.
+- Adequate personal time is available to complete the MVP within the planned timeline.
+- The AI model for glucose predictions will rely on simulated or historical datasets; no clinical-grade datasets will be required for the MVP.
+- Sufficient publicly available datasets exist to train a basic glucose prediction model.
+- The AI prediction model is not expected to meet clinical accuracy standards and is used only for informational purposes in early versions.
+- Source control (Git) and basic CI/CD will be configured and used by the developer for builds and automated tests.
