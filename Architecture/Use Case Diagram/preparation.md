@@ -4,14 +4,20 @@ The use case diagram explains the system from the user’s perspective and ensur
 
 We will have -3- diagrams as the following:
 
-1. Patient -user- use case diagram.
+1. Patient -user- use case diagram:
+   
    Primary actor: patient -user-
+
    Secondary actors: CGM Sensor, Insulin Pump Hardware, Emergency Services (997).
    
-2. Caregiver use case diagram.
+2. Caregiver use case diagram:
+   
    Primary actor: caregiver.
+
    Secondary actors: Patient, Emergency Services (997), CGM sensor.
    
-3. Healthecare protal use case diagram.
+3. Healthecare protal use case diagram:
+   
    Primary actors: patient and healthcare staff.
+
    Secondary actors: None.
