@@ -36,6 +36,5 @@
 
 ### 9. Usability
 - The system shall allow users to set target glucose ranges.  
-- The system shall allow customization of notifications (sound, vibration, silent).  
-- The system shall provide a user-friendly dashboard summarizing readings, trends, and suggestions. 
+- The system shall allow customization of notifications (sound, vibration, silent). 
 
