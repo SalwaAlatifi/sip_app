@@ -17,7 +17,8 @@
 
 ### 4. Integration
 - The system shall connect with third-party CGM sensors.  
-- The system shall connect with the insulin pump via BLE.  
+- The system shall connect with the insulin pump via BLE.
+- The system shall displays the devices status (batter, connection state and insulin amount).
 
 ### 5. AI & Prediction
 - The system AI model shall provide glucose level predictions.  
