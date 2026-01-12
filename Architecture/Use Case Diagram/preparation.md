@@ -14,7 +14,7 @@ We will have -3- diagrams as the following:
    
    Primary actor: caregiver.
 
-   Secondary actors: Patient, Emergency Services (997), CGM sensor.
+   Secondary actors: Patient, Emergency Services (997).
    
 3. Healthecare protal use case diagram:
    
