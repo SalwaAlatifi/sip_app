@@ -38,3 +38,8 @@
 - The system shall allow users to set target glucose ranges.  
 - The system shall allow customization of notifications (sound, vibration, silent). 
 
+### 10. Medical Communication & Doctor Interaction
+- The system shall allow secure messaging between patients and the doctor in charge.
+- The system shall support voice and video calls with the doctor during urgent or emergency situations.
+- The system shall allow sending medical data during communication.
+- The system shall log all medical communications for traceability.
