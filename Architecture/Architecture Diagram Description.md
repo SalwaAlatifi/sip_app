@@ -3,7 +3,7 @@ This diagram illustrates the main components of the SIP application and explains
 
 At the center of the architecture is the SIP Application, which contains the user interface (UI) and serves as the primary interaction point for the user. The app communicates continuously with the backend to execute system logic, send user inputs, and retrieve processed data, predictions, and notifications. It acts as the presentation layer that displays glucose readings, insulin recommendations, alerts, and system status in a clear and user-friendly way.
 
-## The backend 
+## The Backend 
 The backend is powered by the Supabase platform, which provides multiple core services essential for system operation:
 * Authentication Service: this service handles all user authentication processes such as sign-up, login, and password reset. It ensures secure access to user accounts and protects sensitive medical and personal data by enforcing proper authorization and identity verification.
 
@@ -13,7 +13,7 @@ The backend is powered by the Supabase platform, which provides multiple core se
 
 * Data Processing: this component retrieves raw data from sensors and user inputs, cleans and validates it, and converts it into a structured format suitable for storage in the database. It ensures data consistency, accuracy, and compatibility with analytical and AI processing requirements.
 
-## The database
+## The Database
 The system uses PostgreSQL as its main database service, which plays a critical role in data management:
 * It provides secure and persistent storage for all user data, medical readings, predictions, and system logs.
 * It defines the core database structure, including tables, primary and foreign keys, relationships, and data types.
@@ -33,7 +33,7 @@ The Insulin Pump Hardware Integration enables secure and controlled communicatio
 * The pump responds with confirmation messages or error notifications
 * All pump-related actions are logged in the database to ensure traceability, continuous monitoring, and safe system operation. This closed-loop interaction enhances system reliability and patient safety.
 
-## Finally, the system integrates with external API Services to enhance responsiveness and safety:
+## API Services
 ### Notification Service API
 This service delivers real-time alerts and notifications to the user’s device based on system events and AI model outputs. It informs users about:
 * High or low blood glucose levels
