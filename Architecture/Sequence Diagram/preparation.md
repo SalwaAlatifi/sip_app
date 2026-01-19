@@ -6,10 +6,11 @@
 ## A-Core diagrams:
 1. Authentication
 2. Real-time monitoring
-3. AI prediction
-4. Insulin suggestion
-5. Insulin delivery
-6. Emergency communication
+3. Hypo/Hyperglycemic notification
+4. AI prediction
+5. Insulin suggestion
+6. Insulin delivery
+7. Emergency communication
 
 ## B-Supporting diagrams:
 1. Carbohydrate logging
