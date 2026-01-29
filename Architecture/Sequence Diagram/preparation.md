@@ -4,8 +4,8 @@
 
 # Sequence diagrams that we need to design:
 ## A-Core diagrams:
-1. Authentication
-2. Real-time monitoring
+1. Authentication [Done, in the future we may add wrong password and role mismatch cases]
+2. Real-time monitoring [In progress]
 3. Hypo/Hyperglycemic notification
 4. AI prediction
 5. Insulin suggestion
