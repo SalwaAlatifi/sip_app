@@ -8,7 +8,7 @@
 2. Real-time monitoring [Done]
 3. Hypo/Hyperglycemic notification [Done]
 4. AI prediction [Done]
-5. Insulin suggestion
+5. Insulin suggestion [Done]
 6. Insulin delivery
 7. Emergency communication
 
