@@ -1,5 +1,4 @@
 > Are where the system’s timing and safety come alive.
-
 > Are the main stories the system must handle.
 
 # Sequence diagrams that we need to design:
@@ -9,7 +8,7 @@
 3. Hypo/Hyperglycemic notification [Done]
 4. AI prediction [Done]
 5. Insulin suggestion [Done]
-6. Insulin delivery
+6. Insulin delivery [Done}
 7. Emergency communication
 
 ## B-Supporting diagrams:
