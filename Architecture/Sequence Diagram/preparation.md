@@ -9,7 +9,7 @@
 4. AI prediction [Done]
 5. Insulin suggestion [Done]
 6. Insulin delivery [Done}
-7. Emergency communication
+7. Emergency communication [Done]
 
 ## B-Supporting diagrams:
 1. Carbohydrate logging
