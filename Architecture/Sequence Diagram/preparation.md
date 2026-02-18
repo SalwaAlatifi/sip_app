@@ -12,8 +12,8 @@
 7. Emergency communication [Done]
 
 ## B-Supporting diagrams:
-1. Carbohydrate logging
-2. View history and trends
+1. Carbohydrate logging [Done]
+2. View history and trends [Done]
 3. Device connection status
 
 ## C-Role-based diagrams:
