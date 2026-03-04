@@ -14,8 +14,8 @@
 ## B-Supporting diagrams:
 1. Carbohydrate logging [Done]
 2. View history and trends [Done]
-3. Device connection status
+3. Device connection status [Done]
 
 ## C-Role-based diagrams:
-1. Caregiver monitoring
-2. Healthcare staff access
+1. Caregiver monitoring [Done]
+2. Healthcare staff access [Done]
